@@ -1,1 +1,1 @@
-# MERN_Pratice
+# MERN_Practice
